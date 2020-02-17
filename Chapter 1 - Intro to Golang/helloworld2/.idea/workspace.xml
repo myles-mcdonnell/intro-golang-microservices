@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78392d3b-e407-4022-9f16-de92d4e92c84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Xc7KGm5redWmLhqui8oXQz3172" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="helloworld2" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/helloworld.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="helloworld2" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/helloworld.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="197" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581333644621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="197" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-836.1080.1680.1050/-1920.0.1920.1080@0.0.1920.1080" timestamp="1581333644621" />
+    <state width="1868" height="291" key="GridCell.Tab.0.bottom" timestamp="1581333653255">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080/-836.1080.1680.1050/-1920.0.1920.1080@0.0.1920.1080" timestamp="1581333653255" />
+    <state width="1868" height="291" key="GridCell.Tab.0.center" timestamp="1581333653254">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="291" key="GridCell.Tab.0.center/0.0.1920.1080/-836.1080.1680.1050/-1920.0.1920.1080@0.0.1920.1080" timestamp="1581333653254" />
+    <state width="1868" height="291" key="GridCell.Tab.0.left" timestamp="1581333653253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="291" key="GridCell.Tab.0.left/0.0.1920.1080/-836.1080.1680.1050/-1920.0.1920.1080@0.0.1920.1080" timestamp="1581333653253" />
+    <state width="1868" height="291" key="GridCell.Tab.0.right" timestamp="1581333653255">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="291" key="GridCell.Tab.0.right/0.0.1920.1080/-836.1080.1680.1050/-1920.0.1920.1080@0.0.1920.1080" timestamp="1581333653255" />
+  </component>
+</project>
