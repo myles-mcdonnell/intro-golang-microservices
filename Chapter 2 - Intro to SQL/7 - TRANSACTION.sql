@@ -1,0 +1,57 @@
+===== LESSON 8 : TRANSACTIONS ======
+
+DROP TABLE ACCOUNT;
+
+==========================
+
+
+CREATE TABLE ACCOUNT (
+	ID INT PRIMARY KEY,
+	NAME VARCHAR(10),
+	BALANCE INTEGER
+);
+
+
+==========================
+
+BEGIN;
+
+INSERT INTO ACCOUNT (
+	ID,
+	NAME,
+	BALANCE
+)
+VALUES (
+	1,
+	'Cristina',
+	100
+);
+
+SELECT * FROM ACCOUNT;
+
+ROLLBACK;
+
+COMMIT;
+
+
+
+========================
+
+
+BEGIN;
+
+UPDATE 
+	ACCOUNT
+SET 
+	BALANCE = 200
+WHERE
+	ID = 1;
+
+SELECT * FROM ACCOUNT;
+
+ROLLBACK;
+
+COMMIT;
+
+
+
