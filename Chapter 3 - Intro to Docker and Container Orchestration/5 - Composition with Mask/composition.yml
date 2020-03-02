@@ -1,0 +1,10 @@
+version: '3.2'
+services:
+  publicecho:
+    build: .
+    ports:
+      - 8082:8080
+    depends_on:
+      - privateecho
+  privateecho:
+    build: .
